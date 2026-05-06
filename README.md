@@ -38,7 +38,7 @@ The game features real-time score tracking, instant feedback, and a clean respon
 
 ## 🌐 Live Demo
 
-(Netlify link)
+[(Netlify link)](https://profound-platypus-c35679.netlify.app/)
 
 ---
 
